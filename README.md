@@ -1,4 +1,4 @@
-öğrencilerin notlarını görebileceği  öğretmenlerin öğrencileriyle ilgili bilgilere ulaşıp değiştirebileceği not bilgi sistemi 
+öğrencilerin notlarını görebileceği  öğretmenlerin öğrencileriyle ilgili bilgilere ulaşıp  notlarını değiştirebileceği not bilgi sistemi 
 
 
 Aşağıdaki şifreleri kullanarak sisteme giriş yapabilirsiniz 
